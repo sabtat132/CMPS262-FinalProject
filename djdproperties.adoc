@@ -30,7 +30,7 @@ For example, they can have available property listings, policies, tenant portal 
 
 |==========================
 App,Location,Environment,URL,Status,Version
-`{FOODPANTRY_APP}`,`{FOODPANTRY_LOC}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
+`{PROPERTY_APP}`,`{PROPERTY_LOC}`,`{PROPERTY_ENV}`,`{PROPERTY_URL}`,`{PROPERTY_STATUS}`,`{PROPERTY_VERSION}`
 |==========================
 
 ## GitHub Branching Strategy
