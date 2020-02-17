@@ -1,5 +1,15 @@
 #DJD Properties Website/Application
 
+:PROPERTY_APP: DJD Properties
+:PROPERTY_LOC: Pittsburgh
+:PROPERTY_ENV: Staging
+:PROPERTY_URL: Working Web Address - https:statal.it.pointpark.edu/djdproperties.html
+:PROPERTY_STATUS: Not Available Currently
+:PROPERTY_VERSION: 1.0
+:imagesdir: images
+
+image::PantryLogo.png[alt=logo,width=250px][orientation=portrait]
+
 ##What is DJD Properties
 DJD Properties is a family run rental company business that has been around for over 30 years in the city of Pittsburgh. They feature various property such as lots, commercial property, houses, and apartments for rent. 
 
@@ -13,3 +23,17 @@ For example, they can have available property listings, policies, tenant portal 
 -JQuery
 -JavaScript
 -SQL
+
+##Application Environment Details
+
+[grid="rows",format="csv"]
+
+|==========================
+App,Location,Environment,URL,Status,Version
+`{FOODPANTRY_APP}`,`{FOODPANTRY_LOC}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
+|==========================
+
+## GitHub Branching Strategy
+
+image::diagram.png[alt=diagram,width=550px][orientation=portrait]
+
