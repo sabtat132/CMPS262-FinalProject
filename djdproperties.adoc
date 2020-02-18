@@ -15,7 +15,7 @@ They have never had an online presence, and previously have been using Facebook 
 For example, they can have available property listings, policies, tenant portal to pay rent and request maintenance, and more. 
 
 ## What programming languages will be utilized
--HTML, CSS, JQuery, JavaScript, SQL
+- HTML, CSS, JQuery, JavaScript, SQL
 
 ## Application Environment Details
 
@@ -27,6 +27,6 @@ App,Location,Environment,URL,Status,Version
 |==========================
 
 ## GitHub Branching Strategy
-:gitbranch-strategy.png[alt=diagram,width=550px][orientation=portrait]
+dev:gitbranch-strategy.png[alt=diagram,width=550px][orientation=portrait]
 
 
