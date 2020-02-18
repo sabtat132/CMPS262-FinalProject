@@ -3,7 +3,7 @@
 :PROPERTY_APP: DJD Properties
 :PROPERTY_LOC: Pittsburgh
 :PROPERTY_ENV: Staging
-:PROPERTY_URL: Working Web Address - https:statal.it.pointpark.edu/djdproperties.html
+:PROPERTY_URL: Working Web Address - https://statal.it.pointpark.edu/djdproperties.html
 :PROPERTY_STATUS: Not Available Currently
 :PROPERTY_VERSION: 1.0
 
