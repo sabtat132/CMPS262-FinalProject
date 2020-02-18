@@ -27,6 +27,6 @@ App,Location,Environment,URL,Status,Version
 |==========================
 
 ## GitHub Branching Strategy
-dev:gitbranch-strategy.png[alt=diagram,width=550px][orientation=portrait]
+dev:gitbranch-strategy.PNG[alt=diagram,width=550px][orientation=portrait]
 
 
