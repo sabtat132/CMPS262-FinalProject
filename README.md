@@ -18,12 +18,14 @@ They have never had an online presence, and previously have been using Facebook 
 For example, they can have available property listings, policies, tenant portal to pay rent and request maintenance, and more. 
 
 ## What programming languages will be utilized
--HTML
--CSS
--JQuery
--JavaScript
--SQL & php (contact form)
--Bootsrap
+```
+HTML
+CSS
+JQuery
+JavaScript
+SQL & php (contact form)
+Bootsrap
+```
 
 ## Filter Property Feature
 This is an example of how I may implement the filter functionality - I'm thinking of filtering by location since all of our properties are about the same size (ex: 2-3 bedroom and 1 bath). 
