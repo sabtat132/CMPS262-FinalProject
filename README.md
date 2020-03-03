@@ -1,7 +1,5 @@
-# CMPS262-FinalProject
-This website will be for DJD Properties - event listings, policies, tenant portal
-
-# DJD Properties Website/Application
+# CMPS262-FinalProject : DJD Properties Web Application - Website
+This website will be for DJD Properties; which is my family's rental property business. Currently, the business is very outdated in terms of technology and a digital presence. Through the creation of a web application this will improve many processes such as available property listings/search, FAQ of policies, and a tenant portal (pay rent electronically, request maintenance, and more). 
 
 :PROPERTY_APP: DJD Properties
 :PROPERTY_LOC: Pittsburgh
@@ -10,10 +8,7 @@ This website will be for DJD Properties - event listings, policies, tenant porta
 :PROPERTY_STATUS: Not Available Currently
 :PROPERTY_VERSION: 1.0
 
-## What is DJD Properties
-DJD Properties is a family run rental company business that has been around for over 30 years in the city of Pittsburgh. They feature various property such as lots, commercial property, houses, and apartments for rent. 
-
-## What is the DJD Properties Website
+## What is the purpose of the DJD Properties Website
 They have never had an online presence, and previously have been using Facebook Market Place and Craiglist ads to promote their available listings. On top of that, other business practices are very out-dated and can be more easily streamlined by using a website application that can do it all. 
 For example, they can have available property listings, policies, tenant portal to pay rent and request maintenance, and more. 
 
@@ -31,4 +26,7 @@ App,Location,Environment,URL,Status,Version
 
 ## GitHub Branching Strategy
 image:gitbranch-strategy.PNG[alt=diagram,width=550px]
+
+## Author
+Copyright (c) Sabrina Tatalias - statal@pointpark.edu. All rights reserved. 
 
