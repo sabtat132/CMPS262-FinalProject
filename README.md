@@ -7,7 +7,7 @@ Pittsburgh
 
 Staging
 
-Working Web Address - https://statal.it.pointpark.edu/djdproperties.html
+Working Web Address - https://statal.it.pointpark.edu/djdproperties/index.html
 
 Not Available Currently
 
