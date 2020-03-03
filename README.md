@@ -2,10 +2,15 @@
 This website will be for DJD Properties; which is my family's rental property business. Currently, the business is very outdated in terms of technology and a digital presence. Through the creation of a web application this will improve many processes such as available property listings/search, FAQ of policies, and a tenant portal (pay rent electronically, request maintenance, and more). 
 
 DJD Properties
+
 Pittsburgh
+
 Staging
+
 Working Web Address - https://statal.it.pointpark.edu/djdproperties.html
+
 Not Available Currently
+
 Version 1.0
 
 ## What is the purpose of the DJD Properties Website
